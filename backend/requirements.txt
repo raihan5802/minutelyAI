@@ -15,7 +15,6 @@ langchain-openai==0.1.25
 langgraph==0.2.39
 numpy==2.2.6
 notion-client==2.2.1
-openai-whisper==20231117
 pydantic==2.11.9
 pydantic-core==2.33.2
 python-dotenv==1.1.1
