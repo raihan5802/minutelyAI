@@ -1,0 +1,27 @@
+# MinutelyAI — monorepo .gitignore
+
+# Python
+backend/venv/
+backend/minutelyEnv311/
+backend/__pycache__/
+backend/*.pyc
+backend/*.pyo
+backend/.env
+backend/.pytest_cache/
+backend/*.egg-info/
+backend/dist/
+backend/build/
+
+# Node
+frontend/node_modules/
+frontend/.next/
+frontend/.env.local
+frontend/out/
+frontend/.vercel
+
+# General
+.DS_Store
+*.log
+Thumbs.db
+.idea/
+.vscode/
